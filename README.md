@@ -20,10 +20,10 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishrana17&show_icons=true&theme=dark)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishrana17&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishrana17&layout=compact&theme=dark)
 
 ## 📫 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/manish-rana-a8372628b)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-rana-a8372628b/)
 
 
