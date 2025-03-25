@@ -6,7 +6,6 @@
 - 🎓 2nd Year IT Engineering Student  
 - 💻 MERN Stack Developer & DSA Enthusiast  
 - 🔭 Currently working on Api_Market and Hisabkitab 
-- 🌱 Learning **Advanced System Design & Performance Optimization**  
 - 👯 Looking to collaborate on **Open-Source & Web Development Projects**  
 - 💬 Ask me about **DSA, JavaScript, React, Node.js, MongoDB**  
 - ⚡ Fun fact: I love solving coding challenges & exploring new technologies!  
